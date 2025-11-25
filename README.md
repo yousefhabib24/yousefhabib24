@@ -27,14 +27,12 @@ I'm also an educational coding content creator, sharing my coding passion, and a
 
 ### 🎓 Licenses & Certifications
 
-* **[1. Introduction to Cybersecurity](LINK_TO_CISCO_CREDENTIAL)**
+* **[1. Introduction to Cybersecurity](https://www.credly.com/badges/aae0ac5e-a7c1-4f5a-a33d-5b7d5d570e56/public_url)**
     * **Issuer:** Cisco Networking Academy
     * **Issued:** May 2025
 
-* **[2. Mastercard - Cybersecurity Job Simulation](LINK_TO_FORAGE_CREDENTIAL)**
+* **[2. Mastercard - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_n2XS3NDScSxCcyENn_1748021917326_completion_certificate.pdf)**
     * **Issuer:** Forage
     * **Issued:** May 2025
-    * *(Credential ID: 9DXbu5E3MHZgaGjic)*
-
----
+  
 
