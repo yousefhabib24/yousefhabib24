@@ -15,7 +15,7 @@ I am a first-year cybersecurity student at Rochester Institute of Technology Dub
 ## 🌐 Connect With Me:
 [LinkedIn](https://www.linkedin.com/in/yousefhabib24)
 
-## 📑 Certifications:
+## 📄 Certifications:
 
 
 I'm also an educational coding content creator, sharing my coding passion, and any advice on:
