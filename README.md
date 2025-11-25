@@ -9,4 +9,4 @@ I’m a first-year cybersecurity student at RIT Dubai, passionate about how netw
 I'm also an educational coding content creator, sharing my coding passion, and any advice on:
 * [Link to Instagram]
 * [Link to TikTok]
-* (https://www.linkedin.com/in/yousefhabib24)
+* https://www.linkedin.com/in/yousefhabib24
