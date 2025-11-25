@@ -19,7 +19,7 @@ I am a first-year cybersecurity student at Rochester Institute of Technology Dub
   </a>
 </p>
 
-### 📄 Licenses & Certifications:
+## 📄 Certifications:
 
 * **[1. Introduction to Cybersecurity](https://www.credly.com/badges/aae0ac5e-a7c1-4f5a-a33d-5b7d5d570e56/public_url)**
     * **Issuer:** Cisco Networking Academy
