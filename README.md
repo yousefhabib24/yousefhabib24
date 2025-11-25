@@ -14,10 +14,14 @@ I am a first-year cybersecurity student at Rochester Institute of Technology Dub
 
 ## 🌐 Connect With Me:
 [LinkedIn](https://www.linkedin.com/in/yousefhabib24)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousefhabib24" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 
 ## 📄 Certifications:
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
 
 I'm also an educational coding content creator, sharing my coding passion, and any advice on:
 * [Link to Instagram]
