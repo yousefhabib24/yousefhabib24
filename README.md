@@ -13,11 +13,9 @@ I am a first-year cybersecurity student at the Rochester Institute of Technology
 * 📚 Learning academic foundations to prepare for future certifications
 
 ## 🌐 Connect With Me:
-<p align="center">
   <a href="https://www.linkedin.com/in/yousefhabib24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
 
 ## 📄 Certifications:
 
