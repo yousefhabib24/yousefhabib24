@@ -16,6 +16,7 @@ I am a first-year cybersecurity student at Rochester Institute of Technology Dub
 [LinkedIn](https://www.linkedin.com/in/yousefhabib24)
 
 ## 📄 Certifications:
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 
 I'm also an educational coding content creator, sharing my coding passion, and any advice on:
