@@ -15,7 +15,7 @@ I am a first-year cybersecurity student at Rochester Institute of Technology Dub
 ## 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/yousefhabib24" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
