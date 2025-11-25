@@ -24,3 +24,17 @@ I am a first-year cybersecurity student at Rochester Institute of Technology Dub
 I'm also an educational coding content creator, sharing my coding passion, and any advice on:
 * [Link to Instagram]
 * [Link to TikTok]
+
+### 🎓 Licenses & Certifications
+
+* **[1. Introduction to Cybersecurity](LINK_TO_CISCO_CREDENTIAL)**
+    * **Issuer:** Cisco Networking Academy
+    * **Issued:** May 2025
+
+* **[2. Mastercard - Cybersecurity Job Simulation](LINK_TO_FORAGE_CREDENTIAL)**
+    * **Issuer:** Forage
+    * **Issued:** May 2025
+    * *(Credential ID: 9DXbu5E3MHZgaGjic)*
+
+---
+
