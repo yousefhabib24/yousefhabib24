@@ -9,4 +9,4 @@ I am a first-year cybersecurity student at Rochester Institute of Technology Dub
 I'm also an educational coding content creator, sharing my coding passion, and any advice on:
 * [Link to Instagram]
 * [Link to TikTok]
-* [LinkedIn]https://www.linkedin.com/in/yousefhabib24
+* [https://www.linkedin.com/in/yousefhabib24]
