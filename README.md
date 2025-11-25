@@ -21,11 +21,11 @@ I am a first-year cybersecurity student at Rochester Institute of Technology Dub
 
 ## 📄 Certifications:
 
-* **[1. Introduction to Cybersecurity](https://www.credly.com/badges/aae0ac5e-a7c1-4f5a-a33d-5b7d5d570e56/public_url)**
+* **[Introduction to Cybersecurity](https://www.credly.com/badges/aae0ac5e-a7c1-4f5a-a33d-5b7d5d570e56/public_url)**
     * **Issuer:** Cisco Networking Academy
     * **Issued:** May 2025
 
-* **[2. Mastercard - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_n2XS3NDScSxCcyENn_1748021917326_completion_certificate.pdf)**
+* **[Mastercard - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_n2XS3NDScSxCcyENn_1748021917326_completion_certificate.pdf)**
     * **Issuer:** Forage
     * **Issued:** May 2025
   
