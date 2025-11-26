@@ -1,6 +1,4 @@
-<div align="center">
-<h1>Hi 👋 I'm Yousef Habib</h1>
-</div>
+<h1 align="center">Hi 👋 I'm Yousef Habib</h1>
 
 # 🌟 About Me:
 
