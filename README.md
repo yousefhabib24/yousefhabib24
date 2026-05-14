@@ -6,7 +6,7 @@ I am a first-year cybersecurity student at the Rochester Institute of Technology
 
 ## 🚀 What I’m Up To:
 
-* 🛠️ Building small security-focused projects to strengthen my fundamentals
+* 🛠️ Building security-focused projects to strengthen my fundamentals
 * 🤖 Studying networking, system security, and Python through hands-on labs
 * 📚 Learning academic foundations to prepare for future certifications
 
