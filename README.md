@@ -12,10 +12,10 @@ I am a first-year cybersecurity student at the Rochester Institute of Technology
 
 ## 🌐 Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/yousefhabib24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/yousefhabib24" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="yousefhabib24" height="40" width="50" /></a>
   </a>
 </p>
+
 
 ## 📄 Certifications:
 
