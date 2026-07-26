@@ -19,6 +19,10 @@ I am a first-year cybersecurity student at the Rochester Institute of Technology
 
 ## 📄 Certifications:
 
+* **[Certified in Cybersecurity (CC)](https://www.credly.com/badges/19c069ee-1c26-45ae-a93f-8abcf6e494ea/public_url)**
+    * **Issuer:** ISC2
+    * **Issued:** June 2026
+
 * **[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/cfeb2875-41cc-4f90-abcf-ea143ccbeb1b/public_url)**
     * **Issuer:** Google
     * **Issued:** December 2025
